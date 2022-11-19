@@ -5,6 +5,6 @@
 ### Team Lead: 
 Jaisurya S
 ### Team Members: 
-> Abishek V
-> Bhuvaneshwari T
-> Magesh A
+* Abishek V
+* Bhuvaneshwari T
+* Magesh A
